@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*.patched_tmp
+*.patched_backup

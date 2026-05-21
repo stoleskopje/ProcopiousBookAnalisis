@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: >-
+  If you use this dataset, code, or figures, please cite the
+  accompanying article and this deposit.
+title: "Procopius Frequency Analysis: Data and Code"
+abstract: >-
+  Deterministic Python pipeline and derived dataset for the
+  whole-corpus frequency analysis of ethnonyms in Procopius
+  of Caesarea's History of the Wars (Books I-VIII) and the
+  opening of the Anecdota, based on the Loeb edition (Dewing
+  1914-1940). Includes per-book counts for 46 attested
+  groups, log-likelihood G² statistics, and three figures.
+authors:
+  - family-names: "[Family name]"
+    given-names: "[Given name]"
+    email: "[email]"
+    affiliation: "[Affiliation]"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+version: 1.0.0
+date-released: 2026-XX-XX
+license: CC-BY-4.0
+keywords:
+  - Procopius
+  - quantitative historiography
+  - Late Antiquity
+  - Byzantine history
+  - ethnography
+  - digital classics
+  - log-likelihood
+  - corpus linguistics
+  - Slavs
+  - Avars
+  - Vandals
+  - Goths
+repository-code: "[GitHub URL if mirrored]"
+doi: "10.5281/zenodo.XXXXXXX"
+preferred-citation:
+  type: article
+  title: "Counting Procopius's Peoples: Quantitative Ethnography and the Narrative Geography of the Wars"
+  authors:
+    - family-names: "[Family name]"
+      given-names: "[Given name]"
+  journal: "Greek, Roman, and Byzantine Studies"
+  year: 2026
+  status: forthcoming

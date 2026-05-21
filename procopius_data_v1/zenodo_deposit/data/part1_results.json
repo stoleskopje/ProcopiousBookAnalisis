@@ -1,0 +1,1098 @@
+{
+  "part": 1,
+  "metadata": {
+    "files_used": [
+      "ProcopiusCombinedreduced-pages-1.pdf",
+      "ProcopiusCombinedreduced-pages-2.pdf",
+      "ProcopiusCombinedreduced-pages-3.pdf",
+      "ProcopiusCombinedreduced-pages-4.pdf",
+      "ProcopiusCombinedreduced-pages-5.pdf",
+      "ProcopiusCombinedreduced-pages-6.pdf",
+      "ProcopiusCombinedreduced-pages-7.pdf",
+      "ProcopiusCombinedreduced-pages-8.pdf",
+      "ProcopiusCombinedreduced-pages-9.pdf",
+      "ProcopiusCombinedreduced-pages-10.pdf"
+    ],
+    "files_missing": [],
+    "word_count_english": 212179,
+    "word_count_greek_norm": 156843,
+    "words_per_book_english": {
+      "ANECDOTA": 2220,
+      "I": 37562,
+      "II": 45002,
+      "III": 30002,
+      "IV": 46913,
+      "V": 42650,
+      "VI": 7830
+    },
+    "paragraphs_total": 1428,
+    "paragraphs_english": 715,
+    "paragraphs_greek": 682,
+    "paragraphs_index": 31,
+    "books_detected": [
+      "ANECDOTA",
+      "I",
+      "II",
+      "III",
+      "IV",
+      "V",
+      "VI"
+    ],
+    "seed": 20260521
+  },
+  "counts_overall_english": {
+    "Romans": 1017,
+    "Persians": 520,
+    "Goths (Ostrogoths)": 298,
+    "Vandals": 320,
+    "Moors (Mauri)": 230,
+    "Huns (generic)": 72,
+    "Armenians": 61,
+    "Lazi": 50,
+    "Christians": 52,
+    "Libyans": 45,
+    "Saracens (Arabs)": 30,
+    "Massagetae": 31,
+    "Visigoths": 34,
+    "Eruli (Heruli)": 25,
+    "Germans (= Franks per Procopius)": 26,
+    "Ephthalitae (White Huns)": 22,
+    "Franks": 23,
+    "Neapolitans": 21,
+    "Greeks (Hellenes)": 21,
+    "Isaurians": 18,
+    "Italians": 17,
+    "Homeritae (Himyarites)": 17,
+    "Iberians (Caucasian)": 15,
+    "Jews / Hebrews": 18,
+    "Aethiopians": 15,
+    "Carthaginians": 13,
+    "Arians": 19,
+    "Alani (Alans)": 11,
+    "Burgundians": 9,
+    "Colchians": 8,
+    "Persarmenians": 7,
+    "Arborychi (Armorici)": 7,
+    "Tzani": 7,
+    "Beroeans": 7,
+    "Taurians": 7,
+    "Blemyes": 6,
+    "Thuringians": 5,
+    "Nobatae": 5,
+    "Suevi (Suebi)": 4,
+    "Sabiri": 1,
+    "Alamani (Alemanni)": 1,
+    "Antae": 1,
+    "Sclaveni (Slavs)": 1,
+    "Avars": 0,
+    "Lombards (Longobardi)": 0,
+    "Samaritans": 0,
+    "Gepaedes (Gepids)": 4
+  },
+  "counts_per_book_english": {
+    "ANECDOTA": {
+      "Romans": 5,
+      "Persians": 2,
+      "Goths (Ostrogoths)": 1,
+      "Vandals": 1,
+      "Moors (Mauri)": 0,
+      "Huns (generic)": 0,
+      "Armenians": 0,
+      "Lazi": 0,
+      "Christians": 1,
+      "Libyans": 0,
+      "Saracens (Arabs)": 0,
+      "Massagetae": 0,
+      "Visigoths": 0,
+      "Eruli (Heruli)": 0,
+      "Germans (= Franks per Procopius)": 0,
+      "Ephthalitae (White Huns)": 0,
+      "Franks": 0,
+      "Neapolitans": 0,
+      "Greeks (Hellenes)": 1,
+      "Isaurians": 0,
+      "Italians": 0,
+      "Homeritae (Himyarites)": 0,
+      "Iberians (Caucasian)": 0,
+      "Jews / Hebrews": 0,
+      "Aethiopians": 0,
+      "Carthaginians": 0,
+      "Arians": 0,
+      "Alani (Alans)": 0,
+      "Burgundians": 0,
+      "Colchians": 0,
+      "Persarmenians": 0,
+      "Arborychi (Armorici)": 0,
+      "Tzani": 0,
+      "Beroeans": 0,
+      "Taurians": 0,
+      "Blemyes": 0,
+      "Thuringians": 0,
+      "Nobatae": 0,
+      "Suevi (Suebi)": 0,
+      "Sabiri": 0,
+      "Alamani (Alemanni)": 0,
+      "Antae": 0,
+      "Sclaveni (Slavs)": 0,
+      "Avars": 0,
+      "Lombards (Longobardi)": 0,
+      "Samaritans": 0,
+      "Gepaedes (Gepids)": 0
+    },
+    "I": {
+      "Romans": 223,
+      "Persians": 268,
+      "Goths (Ostrogoths)": 2,
+      "Vandals": 2,
+      "Moors (Mauri)": 0,
+      "Huns (generic)": 29,
+      "Armenians": 19,
+      "Lazi": 3,
+      "Christians": 10,
+      "Libyans": 0,
+      "Saracens (Arabs)": 18,
+      "Massagetae": 5,
+      "Visigoths": 0,
+      "Eruli (Heruli)": 4,
+      "Germans (= Franks per Procopius)": 0,
+      "Ephthalitae (White Huns)": 22,
+      "Franks": 0,
+      "Neapolitans": 0,
+      "Greeks (Hellenes)": 2,
+      "Isaurians": 4,
+      "Italians": 0,
+      "Homeritae (Himyarites)": 14,
+      "Iberians (Caucasian)": 7,
+      "Jews / Hebrews": 2,
+      "Aethiopians": 12,
+      "Carthaginians": 0,
+      "Arians": 0,
+      "Alani (Alans)": 1,
+      "Burgundians": 0,
+      "Colchians": 0,
+      "Persarmenians": 7,
+      "Arborychi (Armorici)": 0,
+      "Tzani": 1,
+      "Beroeans": 0,
+      "Taurians": 6,
+      "Blemyes": 6,
+      "Thuringians": 0,
+      "Nobatae": 5,
+      "Suevi (Suebi)": 0,
+      "Sabiri": 1,
+      "Alamani (Alemanni)": 0,
+      "Antae": 0,
+      "Sclaveni (Slavs)": 0,
+      "Avars": 0,
+      "Lombards (Longobardi)": 0,
+      "Samaritans": 0,
+      "Gepaedes (Gepids)": 0
+    },
+    "II": {
+      "Romans": 282,
+      "Persians": 242,
+      "Goths (Ostrogoths)": 13,
+      "Vandals": 5,
+      "Moors (Mauri)": 4,
+      "Huns (generic)": 18,
+      "Armenians": 23,
+      "Lazi": 47,
+      "Christians": 11,
+      "Libyans": 1,
+      "Saracens (Arabs)": 12,
+      "Massagetae": 2,
+      "Visigoths": 0,
+      "Eruli (Heruli)": 12,
+      "Germans (= Franks per Procopius)": 0,
+      "Ephthalitae (White Huns)": 0,
+      "Franks": 0,
+      "Neapolitans": 0,
+      "Greeks (Hellenes)": 4,
+      "Isaurians": 0,
+      "Italians": 3,
+      "Homeritae (Himyarites)": 3,
+      "Iberians (Caucasian)": 7,
+      "Jews / Hebrews": 0,
+      "Aethiopians": 3,
+      "Carthaginians": 0,
+      "Arians": 0,
+      "Alani (Alans)": 2,
+      "Burgundians": 0,
+      "Colchians": 7,
+      "Persarmenians": 0,
+      "Arborychi (Armorici)": 0,
+      "Tzani": 6,
+      "Beroeans": 7,
+      "Taurians": 1,
+      "Blemyes": 0,
+      "Thuringians": 0,
+      "Nobatae": 0,
+      "Suevi (Suebi)": 0,
+      "Sabiri": 0,
+      "Alamani (Alemanni)": 0,
+      "Antae": 0,
+      "Sclaveni (Slavs)": 0,
+      "Avars": 0,
+      "Lombards (Longobardi)": 0,
+      "Samaritans": 0,
+      "Gepaedes (Gepids)": 0
+    },
+    "III": {
+      "Romans": 76,
+      "Persians": 2,
+      "Goths (Ostrogoths)": 13,
+      "Vandals": 151,
+      "Moors (Mauri)": 25,
+      "Huns (generic)": 5,
+      "Armenians": 1,
+      "Lazi": 0,
+      "Christians": 13,
+      "Libyans": 17,
+      "Saracens (Arabs)": 0,
+      "Massagetae": 10,
+      "Visigoths": 6,
+      "Eruli (Heruli)": 1,
+      "Germans (= Franks per Procopius)": 2,
+      "Ephthalitae (White Huns)": 0,
+      "Franks": 1,
+      "Neapolitans": 0,
+      "Greeks (Hellenes)": 3,
+      "Isaurians": 0,
+      "Italians": 1,
+      "Homeritae (Himyarites)": 0,
+      "Iberians (Caucasian)": 0,
+      "Jews / Hebrews": 0,
+      "Aethiopians": 0,
+      "Carthaginians": 9,
+      "Arians": 6,
+      "Alani (Alans)": 5,
+      "Burgundians": 0,
+      "Colchians": 1,
+      "Persarmenians": 0,
+      "Arborychi (Armorici)": 0,
+      "Tzani": 0,
+      "Beroeans": 0,
+      "Taurians": 0,
+      "Blemyes": 0,
+      "Thuringians": 0,
+      "Nobatae": 0,
+      "Suevi (Suebi)": 0,
+      "Sabiri": 0,
+      "Alamani (Alemanni)": 0,
+      "Antae": 0,
+      "Sclaveni (Slavs)": 0,
+      "Avars": 0,
+      "Lombards (Longobardi)": 0,
+      "Samaritans": 0,
+      "Gepaedes (Gepids)": 2
+    },
+    "IV": {
+      "Romans": 239,
+      "Persians": 3,
+      "Goths (Ostrogoths)": 29,
+      "Vandals": 156,
+      "Moors (Mauri)": 197,
+      "Huns (generic)": 8,
+      "Armenians": 18,
+      "Lazi": 0,
+      "Christians": 12,
+      "Libyans": 27,
+      "Saracens (Arabs)": 0,
+      "Massagetae": 8,
+      "Visigoths": 10,
+      "Eruli (Heruli)": 7,
+      "Germans (= Franks per Procopius)": 1,
+      "Ephthalitae (White Huns)": 0,
+      "Franks": 2,
+      "Neapolitans": 0,
+      "Greeks (Hellenes)": 3,
+      "Isaurians": 0,
+      "Italians": 1,
+      "Homeritae (Himyarites)": 0,
+      "Iberians (Caucasian)": 0,
+      "Jews / Hebrews": 10,
+      "Aethiopians": 0,
+      "Carthaginians": 4,
+      "Arians": 10,
+      "Alani (Alans)": 3,
+      "Burgundians": 0,
+      "Colchians": 0,
+      "Persarmenians": 0,
+      "Arborychi (Armorici)": 0,
+      "Tzani": 0,
+      "Beroeans": 0,
+      "Taurians": 0,
+      "Blemyes": 0,
+      "Thuringians": 0,
+      "Nobatae": 0,
+      "Suevi (Suebi)": 0,
+      "Sabiri": 0,
+      "Alamani (Alemanni)": 0,
+      "Antae": 0,
+      "Sclaveni (Slavs)": 0,
+      "Avars": 0,
+      "Lombards (Longobardi)": 0,
+      "Samaritans": 0,
+      "Gepaedes (Gepids)": 0
+    },
+    "V": {
+      "Romans": 154,
+      "Persians": 2,
+      "Goths (Ostrogoths)": 204,
+      "Vandals": 5,
+      "Moors (Mauri)": 4,
+      "Huns (generic)": 5,
+      "Armenians": 0,
+      "Lazi": 0,
+      "Christians": 4,
+      "Libyans": 0,
+      "Saracens (Arabs)": 0,
+      "Massagetae": 2,
+      "Visigoths": 18,
+      "Eruli (Heruli)": 0,
+      "Germans (= Franks per Procopius)": 23,
+      "Ephthalitae (White Huns)": 0,
+      "Franks": 20,
+      "Neapolitans": 21,
+      "Greeks (Hellenes)": 8,
+      "Isaurians": 13,
+      "Italians": 11,
+      "Homeritae (Himyarites)": 0,
+      "Iberians (Caucasian)": 1,
+      "Jews / Hebrews": 6,
+      "Aethiopians": 0,
+      "Carthaginians": 0,
+      "Arians": 2,
+      "Alani (Alans)": 0,
+      "Burgundians": 9,
+      "Colchians": 0,
+      "Persarmenians": 0,
+      "Arborychi (Armorici)": 7,
+      "Tzani": 0,
+      "Beroeans": 0,
+      "Taurians": 0,
+      "Blemyes": 0,
+      "Thuringians": 5,
+      "Nobatae": 0,
+      "Suevi (Suebi)": 4,
+      "Sabiri": 0,
+      "Alamani (Alemanni)": 1,
+      "Antae": 1,
+      "Sclaveni (Slavs)": 1,
+      "Avars": 0,
+      "Lombards (Longobardi)": 0,
+      "Samaritans": 0,
+      "Gepaedes (Gepids)": 2
+    },
+    "VI": {
+      "Romans": 38,
+      "Persians": 1,
+      "Goths (Ostrogoths)": 36,
+      "Vandals": 0,
+      "Moors (Mauri)": 0,
+      "Huns (generic)": 7,
+      "Armenians": 0,
+      "Lazi": 0,
+      "Christians": 1,
+      "Libyans": 0,
+      "Saracens (Arabs)": 0,
+      "Massagetae": 4,
+      "Visigoths": 0,
+      "Eruli (Heruli)": 1,
+      "Germans (= Franks per Procopius)": 0,
+      "Ephthalitae (White Huns)": 0,
+      "Franks": 0,
+      "Neapolitans": 0,
+      "Greeks (Hellenes)": 0,
+      "Isaurians": 1,
+      "Italians": 1,
+      "Homeritae (Himyarites)": 0,
+      "Iberians (Caucasian)": 0,
+      "Jews / Hebrews": 0,
+      "Aethiopians": 0,
+      "Carthaginians": 0,
+      "Arians": 1,
+      "Alani (Alans)": 0,
+      "Burgundians": 0,
+      "Colchians": 0,
+      "Persarmenians": 0,
+      "Arborychi (Armorici)": 0,
+      "Tzani": 0,
+      "Beroeans": 0,
+      "Taurians": 0,
+      "Blemyes": 0,
+      "Thuringians": 0,
+      "Nobatae": 0,
+      "Suevi (Suebi)": 0,
+      "Sabiri": 0,
+      "Alamani (Alemanni)": 0,
+      "Antae": 0,
+      "Sclaveni (Slavs)": 0,
+      "Avars": 0,
+      "Lombards (Longobardi)": 0,
+      "Samaritans": 0,
+      "Gepaedes (Gepids)": 0
+    }
+  },
+  "form_breakdown_english": {
+    "Romans": {
+      "Roman": 293,
+      "Romans": 724
+    },
+    "Persians": {
+      "Persian": 104,
+      "Persians": 389,
+      "Medes": 11,
+      "Median": 16
+    },
+    "Goths (Ostrogoths)": {
+      "Goth": 11,
+      "Goths": 253,
+      "Gothic": 34
+    },
+    "Vandals": {
+      "Vandal": 8,
+      "Vandals": 312
+    },
+    "Moors (Mauri)": {
+      "Moor": 4,
+      "Moors": 207,
+      "Moorish": 19
+    },
+    "Huns (generic)": {
+      "Hun": 1,
+      "Huns": 67,
+      "Hunnic": 4
+    },
+    "Armenians": {
+      "Armenian": 21,
+      "Armenians": 40
+    },
+    "Lazi": {
+      "Lazi": 50
+    },
+    "Christians": {
+      "Christian": 9,
+      "Christians": 43
+    },
+    "Libyans": {
+      "Libyan": 9,
+      "Libyans": 36
+    },
+    "Saracens (Arabs)": {
+      "Saracen": 2,
+      "Saracens": 28
+    },
+    "Massagetae": {
+      "Massagetae": 26,
+      "Massagete": 5
+    },
+    "Visigoths": {
+      "Visigoths": 34
+    },
+    "Eruli (Heruli)": {
+      "Eruli": 16,
+      "Erulian": 8,
+      "Heruli": 1
+    },
+    "Germans (= Franks per Procopius)": {
+      "Germans": 26
+    },
+    "Ephthalitae (White Huns)": {
+      "Ephthalitae": 22
+    },
+    "Franks": {
+      "Franks": 22,
+      "Germani": 1
+    },
+    "Neapolitans": {
+      "Neapolitans": 21
+    },
+    "Greeks (Hellenes)": {
+      "Greek": 11,
+      "Greeks": 10
+    },
+    "Isaurians": {
+      "Isaurian": 5,
+      "Isaurians": 13
+    },
+    "Italians": {
+      "Italians": 17
+    },
+    "Homeritae (Himyarites)": {
+      "Homeritae": 16,
+      "Homerite": 1
+    },
+    "Iberians (Caucasian)": {
+      "Iberian": 2,
+      "Iberians": 13
+    },
+    "Jews / Hebrews": {
+      "Jews": 8,
+      "Hebrew": 3,
+      "Hebrews": 7
+    },
+    "Aethiopians": {
+      "Aethiopian": 2,
+      "Aethiopians": 13
+    },
+    "Carthaginians": {
+      "Carthaginians": 13
+    },
+    "Arians": {
+      "Arian": 10,
+      "Arians": 9
+    },
+    "Alani (Alans)": {
+      "Alani": 11
+    },
+    "Burgundians": {
+      "Burgundians": 9
+    },
+    "Colchians": {
+      "Colchian": 1,
+      "Colchians": 7
+    },
+    "Persarmenians": {
+      "Persarmenian": 2,
+      "Persarmenians": 5
+    },
+    "Arborychi (Armorici)": {
+      "Arborychi": 6,
+      "Armorici": 1
+    },
+    "Tzani": {
+      "Tzani": 7
+    },
+    "Beroeans": {
+      "Beroeans": 7
+    },
+    "Taurians": {
+      "Taurians": 7
+    },
+    "Blemyes": {
+      "Blemyes": 6
+    },
+    "Thuringians": {
+      "Thuringian": 1,
+      "Thuringians": 4
+    },
+    "Nobatae": {
+      "Nobatae": 5
+    },
+    "Suevi (Suebi)": {
+      "Suevi": 4
+    },
+    "Sabiri": {
+      "Sabiri": 1
+    },
+    "Alamani (Alemanni)": {
+      "Alamani": 1
+    },
+    "Antae": {
+      "Antae": 1
+    },
+    "Sclaveni (Slavs)": {
+      "Sclaveni": 1
+    },
+    "Avars": {},
+    "Lombards (Longobardi)": {},
+    "Samaritans": {},
+    "Gepaedes (Gepids)": {
+      "Gepaedes": 4
+    }
+  },
+  "counts_overall_greek_normalised": {
+    "Romans": 877,
+    "Persians": 482,
+    "Goths (Ostrogoths)": 109,
+    "Vandals": 233,
+    "Moors (Mauri)": 177,
+    "Huns (generic)": 58,
+    "Armenians": 58,
+    "Lazi": 48,
+    "Christians": 41,
+    "Saracens (Arabs)": 29,
+    "Massagetae": 28,
+    "Eruli (Heruli)": 14,
+    "Franks": 46,
+    "Ephthalitae (White Huns)": 17,
+    "Sclaveni (Slavs)": 1,
+    "Antae": 0,
+    "Avars": 0,
+    "Lombards (Longobardi)": 0,
+    "Samaritans": 0,
+    "Gepaedes (Gepids)": 1,
+    "Isaurians": 19,
+    "Iberians (Caucasian)": 31,
+    "Greeks (Hellenes)": 11,
+    "Aethiopians": 12,
+    "Libyans": 162,
+    "Visigoths": 14
+  },
+  "counts_per_book_greek_normalised": {
+    "ANECDOTA": {
+      "Romans": 1,
+      "Persians": 0,
+      "Goths (Ostrogoths)": 0,
+      "Vandals": 0,
+      "Moors (Mauri)": 0,
+      "Huns (generic)": 0,
+      "Armenians": 0,
+      "Lazi": 0,
+      "Christians": 0,
+      "Saracens (Arabs)": 0,
+      "Massagetae": 0,
+      "Eruli (Heruli)": 0,
+      "Franks": 0,
+      "Ephthalitae (White Huns)": 0,
+      "Sclaveni (Slavs)": 0,
+      "Antae": 0,
+      "Avars": 0,
+      "Lombards (Longobardi)": 0,
+      "Samaritans": 0,
+      "Gepaedes (Gepids)": 0,
+      "Isaurians": 0,
+      "Iberians (Caucasian)": 0,
+      "Greeks (Hellenes)": 0,
+      "Aethiopians": 0,
+      "Libyans": 0,
+      "Visigoths": 0
+    },
+    "I": {
+      "Romans": 213,
+      "Persians": 225,
+      "Goths (Ostrogoths)": 1,
+      "Vandals": 2,
+      "Moors (Mauri)": 0,
+      "Huns (generic)": 24,
+      "Armenians": 25,
+      "Lazi": 5,
+      "Christians": 10,
+      "Saracens (Arabs)": 18,
+      "Massagetae": 5,
+      "Eruli (Heruli)": 3,
+      "Franks": 1,
+      "Ephthalitae (White Huns)": 17,
+      "Sclaveni (Slavs)": 0,
+      "Antae": 0,
+      "Avars": 0,
+      "Lombards (Longobardi)": 0,
+      "Samaritans": 0,
+      "Gepaedes (Gepids)": 0,
+      "Isaurians": 3,
+      "Iberians (Caucasian)": 12,
+      "Greeks (Hellenes)": 3,
+      "Aethiopians": 11,
+      "Libyans": 2,
+      "Visigoths": 0
+    },
+    "II": {
+      "Romans": 261,
+      "Persians": 187,
+      "Goths (Ostrogoths)": 3,
+      "Vandals": 4,
+      "Moors (Mauri)": 4,
+      "Huns (generic)": 16,
+      "Armenians": 21,
+      "Lazi": 43,
+      "Christians": 10,
+      "Saracens (Arabs)": 11,
+      "Massagetae": 0,
+      "Eruli (Heruli)": 8,
+      "Franks": 3,
+      "Ephthalitae (White Huns)": 0,
+      "Sclaveni (Slavs)": 0,
+      "Antae": 0,
+      "Avars": 0,
+      "Lombards (Longobardi)": 0,
+      "Samaritans": 0,
+      "Gepaedes (Gepids)": 0,
+      "Isaurians": 0,
+      "Iberians (Caucasian)": 17,
+      "Greeks (Hellenes)": 2,
+      "Aethiopians": 1,
+      "Libyans": 1,
+      "Visigoths": 0
+    },
+    "III": {
+      "Romans": 75,
+      "Persians": 13,
+      "Goths (Ostrogoths)": 4,
+      "Vandals": 141,
+      "Moors (Mauri)": 22,
+      "Huns (generic)": 4,
+      "Armenians": 2,
+      "Lazi": 0,
+      "Christians": 14,
+      "Saracens (Arabs)": 0,
+      "Massagetae": 14,
+      "Eruli (Heruli)": 0,
+      "Franks": 1,
+      "Ephthalitae (White Huns)": 0,
+      "Sclaveni (Slavs)": 0,
+      "Antae": 0,
+      "Avars": 0,
+      "Lombards (Longobardi)": 0,
+      "Samaritans": 0,
+      "Gepaedes (Gepids)": 1,
+      "Isaurians": 1,
+      "Iberians (Caucasian)": 0,
+      "Greeks (Hellenes)": 3,
+      "Aethiopians": 0,
+      "Libyans": 79,
+      "Visigoths": 2
+    },
+    "IV": {
+      "Romans": 151,
+      "Persians": 26,
+      "Goths (Ostrogoths)": 4,
+      "Vandals": 83,
+      "Moors (Mauri)": 147,
+      "Huns (generic)": 3,
+      "Armenians": 10,
+      "Lazi": 0,
+      "Christians": 3,
+      "Saracens (Arabs)": 0,
+      "Massagetae": 3,
+      "Eruli (Heruli)": 3,
+      "Franks": 12,
+      "Ephthalitae (White Huns)": 0,
+      "Sclaveni (Slavs)": 0,
+      "Antae": 0,
+      "Avars": 0,
+      "Lombards (Longobardi)": 0,
+      "Samaritans": 0,
+      "Gepaedes (Gepids)": 0,
+      "Isaurians": 0,
+      "Iberians (Caucasian)": 0,
+      "Greeks (Hellenes)": 0,
+      "Aethiopians": 0,
+      "Libyans": 72,
+      "Visigoths": 1
+    },
+    "V": {
+      "Romans": 144,
+      "Persians": 26,
+      "Goths (Ostrogoths)": 90,
+      "Vandals": 3,
+      "Moors (Mauri)": 4,
+      "Huns (generic)": 7,
+      "Armenians": 0,
+      "Lazi": 0,
+      "Christians": 4,
+      "Saracens (Arabs)": 0,
+      "Massagetae": 4,
+      "Eruli (Heruli)": 0,
+      "Franks": 29,
+      "Ephthalitae (White Huns)": 0,
+      "Sclaveni (Slavs)": 1,
+      "Antae": 0,
+      "Avars": 0,
+      "Lombards (Longobardi)": 0,
+      "Samaritans": 0,
+      "Gepaedes (Gepids)": 0,
+      "Isaurians": 14,
+      "Iberians (Caucasian)": 2,
+      "Greeks (Hellenes)": 3,
+      "Aethiopians": 0,
+      "Libyans": 7,
+      "Visigoths": 11
+    },
+    "VI": {
+      "Romans": 32,
+      "Persians": 5,
+      "Goths (Ostrogoths)": 7,
+      "Vandals": 0,
+      "Moors (Mauri)": 0,
+      "Huns (generic)": 4,
+      "Armenians": 0,
+      "Lazi": 0,
+      "Christians": 0,
+      "Saracens (Arabs)": 0,
+      "Massagetae": 2,
+      "Eruli (Heruli)": 0,
+      "Franks": 0,
+      "Ephthalitae (White Huns)": 0,
+      "Sclaveni (Slavs)": 0,
+      "Antae": 0,
+      "Avars": 0,
+      "Lombards (Longobardi)": 0,
+      "Samaritans": 0,
+      "Gepaedes (Gepids)": 0,
+      "Isaurians": 1,
+      "Iberians (Caucasian)": 0,
+      "Greeks (Hellenes)": 0,
+      "Aethiopians": 0,
+      "Libyans": 1,
+      "Visigoths": 0
+    }
+  },
+  "group_definitions_english": {
+    "Romans": [
+      "Roman",
+      "Romans"
+    ],
+    "Persians": [
+      "Persian",
+      "Persians",
+      "Medes",
+      "Median"
+    ],
+    "Goths (Ostrogoths)": [
+      "Goth",
+      "Goths",
+      "Gothic"
+    ],
+    "Vandals": [
+      "Vandal",
+      "Vandals"
+    ],
+    "Moors (Mauri)": [
+      "Moor",
+      "Moors",
+      "Moorish"
+    ],
+    "Huns (generic)": [
+      "Hun",
+      "Huns",
+      "Hunnic"
+    ],
+    "Armenians": [
+      "Armenian",
+      "Armenians"
+    ],
+    "Lazi": [
+      "Lazi"
+    ],
+    "Christians": [
+      "Christian",
+      "Christians"
+    ],
+    "Libyans": [
+      "Libyan",
+      "Libyans"
+    ],
+    "Saracens (Arabs)": [
+      "Saracen",
+      "Saracens"
+    ],
+    "Massagetae": [
+      "Massagetae",
+      "Massagete"
+    ],
+    "Visigoths": [
+      "Visigoths"
+    ],
+    "Eruli (Heruli)": [
+      "Eruli",
+      "Erulian",
+      "Heruli"
+    ],
+    "Germans (= Franks per Procopius)": [
+      "Germans"
+    ],
+    "Ephthalitae (White Huns)": [
+      "Ephthalitae"
+    ],
+    "Franks": [
+      "Franks",
+      "Germani"
+    ],
+    "Neapolitans": [
+      "Neapolitans"
+    ],
+    "Greeks (Hellenes)": [
+      "Greek",
+      "Greeks"
+    ],
+    "Isaurians": [
+      "Isaurian",
+      "Isaurians"
+    ],
+    "Italians": [
+      "Italians"
+    ],
+    "Homeritae (Himyarites)": [
+      "Homeritae",
+      "Homerite"
+    ],
+    "Iberians (Caucasian)": [
+      "Iberian",
+      "Iberians"
+    ],
+    "Jews / Hebrews": [
+      "Jew",
+      "Jews",
+      "Hebrew",
+      "Hebrews"
+    ],
+    "Aethiopians": [
+      "Aethiopian",
+      "Aethiopians"
+    ],
+    "Carthaginians": [
+      "Carthaginians"
+    ],
+    "Arians": [
+      "Arian",
+      "Arians"
+    ],
+    "Alani (Alans)": [
+      "Alani"
+    ],
+    "Burgundians": [
+      "Burgundians"
+    ],
+    "Colchians": [
+      "Colchian",
+      "Colchians"
+    ],
+    "Persarmenians": [
+      "Persarmenian",
+      "Persarmenians"
+    ],
+    "Arborychi (Armorici)": [
+      "Arborychi",
+      "Armorici"
+    ],
+    "Tzani": [
+      "Tzani"
+    ],
+    "Beroeans": [
+      "Beroeans"
+    ],
+    "Taurians": [
+      "Taurians"
+    ],
+    "Blemyes": [
+      "Blemyes"
+    ],
+    "Thuringians": [
+      "Thuringian",
+      "Thuringians"
+    ],
+    "Nobatae": [
+      "Nobatae"
+    ],
+    "Suevi (Suebi)": [
+      "Suevi"
+    ],
+    "Sabiri": [
+      "Sabiri"
+    ],
+    "Alamani (Alemanni)": [
+      "Alamani"
+    ],
+    "Antae": [
+      "Antae"
+    ],
+    "Sclaveni (Slavs)": [
+      "Sclaveni"
+    ],
+    "Avars": [
+      "Avar",
+      "Avars"
+    ],
+    "Lombards (Longobardi)": [
+      "Lombard",
+      "Lombards",
+      "Longobardi"
+    ],
+    "Samaritans": [
+      "Samaritan",
+      "Samaritans"
+    ],
+    "Gepaedes (Gepids)": [
+      "Gepaedes",
+      "Gepid",
+      "Gepids"
+    ]
+  },
+  "group_patterns_greek_normalised": {
+    "Romans": [
+      "\\bρωμαι\\w*"
+    ],
+    "Persians": [
+      "\\bπερσ\\w*",
+      "\\bμηδ\\w*"
+    ],
+    "Goths (Ostrogoths)": [
+      "\\bγοτθ\\w*"
+    ],
+    "Vandals": [
+      "\\bβανδιλ\\w*",
+      "\\bβανδηλ\\w*"
+    ],
+    "Moors (Mauri)": [
+      "\\bμαυρουσ\\w*"
+    ],
+    "Huns (generic)": [
+      "\\bουνν\\w*"
+    ],
+    "Armenians": [
+      "\\bαρμενι\\w*"
+    ],
+    "Lazi": [
+      "\\bλαζ(?:ο|ω|οι|ων|ους|οις)\\w*"
+    ],
+    "Christians": [
+      "\\bχριστιαν\\w*"
+    ],
+    "Saracens (Arabs)": [
+      "\\bσαρακην\\w*"
+    ],
+    "Massagetae": [
+      "\\bμασσαγετ\\w*"
+    ],
+    "Eruli (Heruli)": [
+      "\\bερουλ\\w*"
+    ],
+    "Franks": [
+      "\\bφραγγ\\w*",
+      "\\bγερμαν\\w*"
+    ],
+    "Ephthalitae (White Huns)": [
+      "\\bεφθαλιτ\\w*"
+    ],
+    "Sclaveni (Slavs)": [
+      "\\bσκλαβην\\w*"
+    ],
+    "Antae": [
+      "\\bαντ(?:αι|ων|αις|ας)\\b"
+    ],
+    "Avars": [
+      "\\bαβαρ(?:ος|οι|ων|οις|ους|ε)\\b"
+    ],
+    "Lombards (Longobardi)": [
+      "\\bλογγιβαρδ\\w*",
+      "\\bλογγοβαρδ\\w*"
+    ],
+    "Samaritans": [
+      "\\bσαμαρ(?:ειτ|ιτ)\\w*"
+    ],
+    "Gepaedes (Gepids)": [
+      "\\bγηπαιδ\\w*",
+      "\\bγεπιδ\\w*"
+    ],
+    "Isaurians": [
+      "\\bισαυρ\\w*"
+    ],
+    "Iberians (Caucasian)": [
+      "\\bιβηρ\\w*"
+    ],
+    "Greeks (Hellenes)": [
+      "\\bελλην\\w*"
+    ],
+    "Aethiopians": [
+      "\\bαιθιοπ\\w*"
+    ],
+    "Libyans": [
+      "\\bλιβυ\\w*"
+    ],
+    "Visigoths": [
+      "\\bουισιγοτθ\\w*",
+      "\\bβισιγοτθ\\w*"
+    ]
+  }
+}
